@@ -110,7 +110,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/Users/mtebaldi/Projects/Codeacademy/My_portifolio/Resources/aboutmebackground.jpg');
+    background-image: url('./Resources/aboutmebackground.jpg');
     opacity: 0.6;
     z-index: -1;
 }
@@ -178,7 +178,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/Users/mtebaldi/Projects/Codeacademy/My_portifolio/Resources/footerimg.jpg');
+    background-image: url('./Resources/footerimg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.3;
